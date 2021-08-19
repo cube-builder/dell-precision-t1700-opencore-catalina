@@ -15,6 +15,8 @@ WiFi is not setup either since I use Ethernet on my system and this computer doe
 
 Recovery is not included either to install the OS so you **should** already have the recovery files which can also be followed in the OpenCore guide.
 
+This **might** work on Dell Optiplexes that have haswell CPUs too,
+
 ### My Specs
 CPU: Intel Core i7-4790 (also using intergrated GPU)
 <br>
