@@ -5,7 +5,9 @@ OpenCore EFI files and kexts for a Dell Precision T1700 running a Haswell CPU (I
 
 OpenCore EFI and kexts files for a Dell Precision T1700 for macOS 10.15.7 Catalina.
 <br>
-I have not tested this using Big Sur yet but I will create another repo if I end up doing it.
+~~I have not tested this using Big Sur yet but I will create another repo if I end up doing it.~~
+**UPDATE:** I have tested Big Sur and it seems to work fine with no problems you can view the repo <a href="https://github.com/cube-builder/dell-precision-t1700-opencore-big-sur">here</a>.
+
 This **should** work on your Precision T1700 system running a Haswell CPU. To check if your computer is Haswell just make sure it begins with Intel Core iX 4XXX and this will probably work for your system.
 
 ### Note
