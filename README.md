@@ -1,5 +1,7 @@
 # dell-precision-t1700-opencore-catalina
 OpenCore EFI files and kexts for a Dell Precision T1700 running a Haswell CPU (Intel Core 4XXX)
+<br>
+**I strongly recommend to not use this as this is 3 years out of date and I reccomend building your own EFI using Opencore's current guides. I do not have this system configured this way anymore so I am unable to create a new one, this was uploaded purely for myself for archival purposes**
 
 ![neofetch](https://github.com/cube-builder/dell-precision-t1700-opencore-catalina/blob/main/Screen%20Shot%202021-08-18%20at%208.24.08%20PM.png?raw=true)
 
